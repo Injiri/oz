@@ -68,8 +68,8 @@ import static org.xmlpull.v1.XmlPullParser.TEXT;
 
 public class ChatFragment extends Fragment {
 
-    String[] ozloGreets = new String[]{"Hi", "My name is Ozee.", "I'm here to help you diagnose your possible diseases.",
-    "Ask me anything like ", "'I have a headache.' or 'I have a pain in my back.'"};
+    String[] ozloGreets = new String[]{"Hi", "Welcome to Daktari helper online.", "I'm here to help you diagnose your possible diseases.",
+    "Ask me anything like ", "'I have a headache.' or 'I have a pain on my neck.'"};
 
     String[] ozloHello = new String[]{"Hi!", "Hey! What's up?", "How are you feeling today?",
             "Hi. Tell me about your symptoms.", "Ozee's here!"};

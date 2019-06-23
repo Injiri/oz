@@ -6,15 +6,15 @@ package rohan.app.com.ozlo.helpers;
 
 public class Constant {
 
-//    public static final String BASE_URL = "http://192.168.43.71:3000";
+    //    public static final String BASE_URL = "http://192.168.43.71:3000";
     public static final String BASE_URL = "https://ozlo.herokuapp.com";
     public static final String OPEN_WEATHER_BASE_URL = "http://api.openweathermap.org/data/2.5/";
     public static final String OPEN_WEATHER_IMAGE_URL = "http://openweathermap.org/img/w/";
     public static final String INFER_MEDICA_BASE_URL = "https://api.infermedica.com/v2/";
 
     public static final String WEATHER_API_KEY = "338fcef200d92da1408c75043a3a1c7c";
-    public static final String INFER_MEDICA_APP_ID = "215f5ea7";
-    public static final String INFER_MEDICA_APP_KEY = "ca81056d95e0da7b0c9143363245b656";
+    public static final String INFER_MEDICA_APP_ID = "66e69db7";
+    public static final String INFER_MEDICA_APP_KEY = "5bf97b67e0b35951c083672f9c168df0";
 //    public static final String INFER_MEDICA_APP_ID = "367c4ce4";
 //    public static final String INFER_MEDICA_APP_KEY = "fe2d26ca0ba4e198ebc37ed152abaa85";
 
